@@ -17,7 +17,7 @@ os.system('figlet Whois?')
 
 comando = input('Site ou IP >>> ')
 os.system('echo ')
-print(''[̲̅α̲̅g̲̅υ̲̅α̲̅я̲̅d̲̅є̲̅.̲̅.̲̅.̲̅]'')
+print(''aguarde...")
 time.sleep(1)
 os.system('echo ')
 print('ᴅɴs ᴇ sᴜʙᴅᴏᴍɪɴɪᴏs')
