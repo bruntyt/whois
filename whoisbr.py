@@ -9,9 +9,6 @@ import whois
 import os
 import time
 
-nome = input("Qual é o seu nome? ")
-print(nome, ", seja bem vindo!!")
-
 os.system('clear')
 os.system('figlet Whois?')
 
